@@ -11,7 +11,7 @@ section. and also able to accept / cancel invitations
 Accepted requests : driver can see accepted request in this section and track the journey.
 Completed rides  
 Cancelled rides 
-distance btween user & Driver
+distance between user & Driver
 
 
 ![Screenshot](https://github.com/muhammedessa/taxiOnline/blob/master/img/2018-01-15_00-31-52.png)
